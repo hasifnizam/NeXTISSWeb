@@ -11,3 +11,5 @@ How to run the website:
 5) Locate where "NeXTISSWeb" folder is, choose that folder and click Open.
 6) On the Solution Explorer window which is on the right side, navigate "IssHomePage.aspx" file then right click that file.
 7) Lastly, choose View in Browser.
+
+The assignment given were not 100% completed, there is some problem/error that I encounter such as cannot register billing information for google map API to work because of card credit being rejected. 
