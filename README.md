@@ -12,4 +12,4 @@ How to run the website:
 6) On the Solution Explorer window which is on the right side, navigate "IssHomePage.aspx" file then right click that file.
 7) Lastly, choose View in Browser.
 
-The assignment given were not 100% completed, there is problem/error that I encounter which is cannot register billing information for google map API to work because of my credit card being rejected. 
+The assignment given were not 100% completed. There is problem/error that I encounter, cannot register billing information for google map API to work because of my credit card being rejected. 
